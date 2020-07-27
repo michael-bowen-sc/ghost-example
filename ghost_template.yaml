@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: Template
 metadata:
-  name: ghost-template
+  name: ghost-blog-template
   annotations:
     openshift.io/display-name: Ghost
     description: >-
